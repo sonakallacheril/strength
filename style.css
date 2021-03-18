@@ -1,0 +1,48 @@
+body {
+    margin:0px;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align:center;
+}
+
+ol {
+    list-style: none;
+    display:flex;
+}
+ 
+#heading {
+background-color:black;
+color:white;
+}
+
+li {
+    padding:10px;
+    margin:20px;
+}
+
+a {
+    text-decoration: none;
+    color:white;
+}
+
+button {
+    border:none;
+    color:white;
+    background-color:red;
+    padding:10px;
+    border-radius:50px;
+    font-size:30px;
+}
+
+#label {
+    background-color:red;
+    width:200px;
+    border-radius:25px;
+    padding:10px;
+}
+
+#display_info, #display2_info , #display3_info, #display4_info {
+    display:none;
+}
+
+
+
